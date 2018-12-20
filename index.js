@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 const PORT = 4321;
-=======
-const PORT = 3336;
->>>>>>> 2a47f6a7f853d54b8f41ea65761330136b934d2f
 const serve = require('serve-static')('public', {
 'index': ['index.html', 'index.htm']
 });

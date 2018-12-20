@@ -1,4 +1,4 @@
-const PORT = 3336;
+const PORT = 4321;
 const serve = require('serve-static')('public', {
 'index': ['index.html', 'index.htm']
 });

@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/NikitaPO/staticFiles.git",
   "author": "NikitaPO <gigzim345@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+      "start": "node index.js"
+  }
 }

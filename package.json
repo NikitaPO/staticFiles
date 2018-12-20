@@ -1,0 +1,8 @@
+{
+  "name": "js_20.12.18-labStaticFiles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NikitaPO/staticFiles.git",
+  "author": "NikitaPO <gigzim345@gmail.com>",
+  "license": "MIT"
+}

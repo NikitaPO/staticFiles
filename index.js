@@ -1,6 +1,6 @@
 const PORT = process.env.PORT;
 const serve = require('serve-static')('public', {
-'index': ['index.html', 'index.htm']
+'index': ['index.html', 'index.htm', 'static.pdf']
 });
 require('http').Server((req, res) => {
 if (req.url === '/hello') res.writeHead(200) || res.end('Hello!');
